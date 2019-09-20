@@ -1,13 +1,7 @@
 ﻿/*
-    Author: Clinton Daniel
-    Date: 1/5/2019
+    Author: Saltanat Degenbaeva
     Comments: This C# Console application code demonstrates the use of
-              methods after getting input from a user. The program has two
-              methods. One value return method and one void method.
-              One method is designed to calculate the users maximum heart rate
-              after entering their age. The other method is designed to 
-              calculate the users recommended heart rate range during exercise
-              based on the calculated maximum heart rate. 
+              methods after getting input from a user. 
 */
 using System;
 
